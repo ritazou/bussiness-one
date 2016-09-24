@@ -26,10 +26,11 @@ body{ font-size: 12px; font-family: "微软雅黑"}
 .triangle_up{ border-bottom: 4px solid #ca0309; }
 .triangle_down_red{ border-top: 4px solid #ca0309; }
 .triangle_down_gray{  border-top: 4px solid #c4bdbd; }
-/**/   
+/**/
 
 
 /*layout*/
+
 #header,#nav,#content{ width: 960px; margin:0 auto; }
 .main_ad,.side_section,.side_ad,.border_ad{ margin-bottom: 10px; }
 #search,.section,.side_section,.border_ad,#footer{ border: 1px solid #bdbdbd; border-radius: 6px; }
